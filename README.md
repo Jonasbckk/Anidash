@@ -7,5 +7,5 @@ passion and find out important information about your favorite works. 🌸
 
 ## Authors
 
-- [@Quoboo](https://github.com/quoboo) (Owner - FullStack)
+- [@Quoboo](https://github.com/quoboo) (Owner)
 - [@oglis22](https://github.com/oglis22) (Left Project)
